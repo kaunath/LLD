@@ -11,7 +11,7 @@ import observer_design.observer.NotificationAlertObserver;
 * Here we are implementing a "notify me" feature for amazon, flipkart
 * when a new product is available to customer, it will notify all the
 * customers
-* 
+*
 * */
 public class Store {
     public static void main(String[] args) {
